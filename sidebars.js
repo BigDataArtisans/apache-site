@@ -24,9 +24,6 @@ module.exports = {
         'creating-pages',
         'styling-layout',
         'static-assets',
-        {
-          Docs: ['docs-introduction', 'markdown-features', 'versioning'],
-        },
         'blog',
         'search',
         'deployment',
@@ -50,7 +47,7 @@ module.exports = {
       ],
     },
   ],
-  community: [
+  communi: [
     'support',
     'team',
     'resources',
